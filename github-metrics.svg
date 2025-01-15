@@ -269,14 +269,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.9775234867169" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="257.9775234867169" y="0" width="136.9797803263106" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="394.95730381302747" y="0" width="59.890754910144075" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.84805872317156" y="0" width="2.7290178699253644" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.5770765930969" y="0" width="0.7823623711803211" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="458.3594389642772" y="0" width="0.7220571522538336" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.08149611653107" y="0" width="0.48539775448770706" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="459.5668938710188" y="0" width="0.4331061289811813" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.9774553984762" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="257.9774553984762" y="0" width="136.97982649301647" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="394.9572818914927" y="0" width="59.89077509530469" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.84805698679736" y="0" width="2.7290187896944356" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.5770757764918" y="0" width="0.7823626348622558" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="458.3594384113541" y="0" width="0.7220573956109196" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.081495806965" y="0" width="0.485397918082767" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="459.56689372504775" y="0" width="0.4331062749522379" height="8" fill="#438eff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -443,7 +443,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.25838466803559 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.47056810403832 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -553,7 +553,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.27m out of 146m users</span>
+                                    <span class="gh">ranked 2.27m out of 153m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -596,7 +596,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 33.1m out of 146m users</span>
+                                    <span class="gh">ranked 33.1m out of 153m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -730,7 +730,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2025, 09:22:17 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2025, 09:24:08 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
