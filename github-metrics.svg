@@ -170,11 +170,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="112.97297297297297" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="112.97297297297297" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="112.97297297297297" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="112.97297297297297" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="112.97297297297297" y="0" width="107.02702702702703" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="89.1891891891892" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="89.1891891891892" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="89.1891891891892" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="89.1891891891892" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="89.1891891891892" y="0" width="130.8108108108108" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -185,14 +185,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">19 <small>open</small></span>
+                                <span class="no-wrap">15 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">18 <small>closed</small></span>
+                                <span class="no-wrap">22 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -269,14 +269,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.47701510692457" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="259.47701510692457" y="0" width="132.44779125862783" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="391.9248063655524" y="0" width="62.37697866751031" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.30178503306274" y="0" width="2.90471419768887" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.2064992307516" y="0" width="0.8174961503545358" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.02399538110615" y="0" width="0.7564778376768423" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="458.78047321878296" y="0" width="0.750188457629046" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="459.530661676412" y="0" width="0.46933832358793715" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.4945295143846" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="259.4945295143846" y="0" width="132.4360511764232" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="391.93058069080786" y="0" width="62.37170942815705" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.30229011896495" y="0" width="2.904456725796453" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.20674684476137" y="0" width="0.817423688051345" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.0241705328127" y="0" width="0.7564107839954187" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="458.78058131680814" y="0" width="0.7501219614339956" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="459.53070327824213" y="0" width="0.46929672175790027" height="8" fill="#6866fb"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -443,7 +443,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.34873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.56091718001367 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -730,7 +730,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2025, 09:37:57 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2025, 09:12:08 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
